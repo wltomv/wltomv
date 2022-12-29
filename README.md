@@ -3,9 +3,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wltomv" alt="wltomv" /></a> </p>
 
-
-- 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **Javascript, Typescript, Java, Python, Angular, Node**
 
 - 📫 How to reach me **owaldovelasz@gmail.com**
