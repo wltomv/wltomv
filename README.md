@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Walter Mach</h1>
 <h3 align="center">A backend and frontend developer from Guatemala</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wltomv" alt="wltomv" /></a> </p>
-
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wltomv" alt="wltomv" /></a> </p>
+ -->
 - 💬 Ask me about **Javascript, Typescript, Java, Python, Angular, Node**
 
 - 📫 How to reach me **owaldovelasz@gmail.com**
